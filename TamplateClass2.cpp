@@ -8,7 +8,7 @@ using std::endl;
 
 int main()
 {
-	SmartArray<string> a(5);
+	SmartArray<double,8> a;
 	a.show_array();
 }
 
